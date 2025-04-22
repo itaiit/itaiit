@@ -1,6 +1,9 @@
 ## Hi there 👋
 Born in 1995. Graduated with a bachelor's degree in 2018 and currently seeking employment.
-- 📫 How to reach me: 2264044269@qq.com
+
+I currently reside in Chaoyang District, Beijing.
+
+📫 How to reach me: 2264044269@qq.com
 <!--
 **itaiit/itaiit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
