@@ -1,5 +1,5 @@
 ## Hi there 👋
-Born in 1995. Graduated with a bachelor's degree in 2018 and currently seeking employment.
+Born in 1995. Graduated with a bachelor's degree in 2018.
 
 I currently reside in Chaoyang District, Beijing.
 <!--
